@@ -1,0 +1,84 @@
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.Login.resources
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.Properties.Resources.resources
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.Main.resources
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\FormQLNS.exe.config
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\FormQLNS.exe
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\FormQLNS.pdb
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.exe
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.pdb
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.UserControl1.resources
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.dll
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.xml
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.QLNS.resources
+C:\Users\MSI GE66\Desktop\Code\Projects\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.CopyComplete
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\FormQLNS.exe.config
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\FormQLNS.exe
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\FormQLNS.pdb
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.dll
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.SqlServer.dll
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.xml
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.SqlServer.xml
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.SuggestedBindingRedirects.cache
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.Login.resources
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.Properties.Resources.resources
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.Main.resources
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.QLNS.resources
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.CopyComplete
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.exe
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.pdb
+D:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.LuongNhanVien.resources
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\FormQLNS.exe.config
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\FormQLNS.exe
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\FormQLNS.pdb
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.dll
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.SqlServer.dll
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.xml
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.SqlServer.xml
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.SuggestedBindingRedirects.cache
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.Login.resources
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.LuongNhanVien.resources
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.Properties.Resources.resources
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.Main.resources
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.QLNS.resources
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.CopyComplete
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.exe
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.pdb
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.DanhSachNhanSu.resources
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.QuanLyChucVu.resources
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.QuanLyPhongBan.resources
+C:\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.QuanLyTrinhDoHocVan.resources
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\FormQLNS.exe.config
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\FormQLNS.exe
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\FormQLNS.pdb
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.dll
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.SqlServer.dll
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.xml
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\bin\Debug\EntityFramework.SqlServer.xml
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.AssemblyReference.cache
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.SuggestedBindingRedirects.cache
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.DanhSachNhanSu.resources
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.Login.resources
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.LuongNhanVien.resources
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.Properties.Resources.resources
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.Main.resources
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.QLNS.resources
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.QuanLyChucVu.resources
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.QuanLyPhongBan.resources
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.QuanLyTrinhDoHocVan.resources
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.GenerateResource.cache
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.CoreCompileInputs.cache
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\QLNS.csproj.CopyComplete
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.exe
+E:\Learn\Lap Trinh Win\Nhom9-QuachViCuong-2011062048\DoAn\Đồ Án QLNS\FormQLNS\FormQLNS\obj\Debug\FormQLNS.pdb
